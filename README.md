@@ -1,6 +1,6 @@
 # Music Explorer
 
-**NIM:** Rifael Eurico Sitorus<br>
+**Nama:** Rifael Eurico Sitorus<br>
 **NIM:** 123140077
 
 ## 📚 Deskripsi Proyek
