@@ -24,21 +24,21 @@ Music Explorer adalah aplikasi web untuk mencari musik, album, dan artis favorit
 ### Instalasi
 
 1. Clone repository
-\`\`\`bash
+```bash
 git clone https://github.com/eltoruz/uts-pemweb-123140077.git
 cd uts-pemweb-123140077
 cd music-explorer-123140077
-\`\`\`
+```
 
 2. Install dependencies
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 3. Jalankan development server
-\`\`\`bash
+```bash
 npm start
-\`\`\`
+```
 
 4. Buka browser dan akses `http://localhost:3000`
 
