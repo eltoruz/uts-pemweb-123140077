@@ -83,7 +83,7 @@ Parameter yang digunakan:
 - Data playlist hanya tersimpan di browser lokal (tidak tersinkronisasi antar device)
 
 
-## ⚠️ LINK DEPLOYMENT
+## LINK DEPLOYMENT
 https://uts-pemweb-123140077-music-explorer.vercel.app/
 
 
