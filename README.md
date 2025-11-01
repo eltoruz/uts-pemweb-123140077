@@ -1,6 +1,6 @@
 # Music Explorer
 
-**NIM:** Rifael Eurico Sitorus
+**NIM:** Rifael Eurico Sitorus<br>
 **NIM:** 123140077
 
 ## 📚 Deskripsi Proyek
@@ -68,13 +68,13 @@ Parameter yang digunakan:
 ## 📸 Screenshot Aplikasi
 
 ### Halaman Utama
-![Music Explorer Screenshot](halaman-utama.png)
+![Music Explorer Screenshot](screenshots/halaman-utama.png)
 
 ### Hasil Pencarian
-![Search Results](hasil-pencarian.png)
+![Search Results](screenshots/hasil-pencarian.png)
 
 ### Playlist Builder
-![Playlist](playlist.png)
+![Playlist](screenshots/playlist.png)
 
 ## ⚠️ Batasan
 
